@@ -1,1 +1,6 @@
+# Variable environment file
 **/.env
+**/.env*
+
+# Elasticsearch data
+/elasticsearch/esdata/
